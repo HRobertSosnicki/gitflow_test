@@ -1,1 +1,1 @@
-const b = 1;
+const b = hotifx/2;
